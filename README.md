@@ -1,0 +1,2 @@
+# SpectralTransformer-Spectral-Correction-Model
+围绕谱线校正算法的设计与验证展开，提出的SpectralTransformer模型通过融合物理约束与多目标优化，显著提升了畸变光谱的校正精度与物理一致性。实验表明，校正后的光谱在形态保真度、总强度匹配及分类任务中均优于原始数据。
